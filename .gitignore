@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Remove testing Jupyter Notebooks
+ConnectBook.ipynb
+.DS_Store
